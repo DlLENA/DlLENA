@@ -9,6 +9,5 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Algo sobre mi***
 
 Soy una estudiante Universitaria de la carrera de Ingenieria en Sistemas y Ciencias de la Computacion... 
-* **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 Actualmente aprendiendo...
 - Aparte de la tecnologia, 📖 me gusta leer novelas, 🖌️ pintar, 🎵 escuchar musica, and 🌴 explorar la naturaleza al aire libre.
